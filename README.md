@@ -1,2 +1,2 @@
 # first-one
-it's my first repository
+zhe shi wo de fen zhi
